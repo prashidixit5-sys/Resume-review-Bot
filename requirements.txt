@@ -1,0 +1,14 @@
+openai
+groq
+google-generativeai
+mistralai
+
+python-dotenv
+
+langchain
+langchain-openai
+langchain-google-genai
+
+pydantic
+requests
+httpx
